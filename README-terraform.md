@@ -4,7 +4,8 @@ This Terraform configuration deploys a highly available web application infrastr
 
 ## Architecture Diagram
 
-[Architecture diagram will be added here]
+![unnamed](https://github.com/user-attachments/assets/1d2ce84c-6526-48e8-a74f-24dd7c09380c)
+
 
 ## Architecture Components
 
